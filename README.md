@@ -1,2 +1,2 @@
 # Alarm-clock
-This clock is developed with HTML,CSS.JavaScript.
+View the project - https://tareq905.github.io/Alarm-clock/
